@@ -16,7 +16,8 @@ hash = { id: 5}
 end
 
 def my_hash_creator(key,value)
- hash 
+grades = Hash.new
+grades["Bob"] = 82
 end
 
 def read_from_hash(hash, key)
