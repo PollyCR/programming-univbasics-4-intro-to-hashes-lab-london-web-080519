@@ -16,7 +16,7 @@ hash = { id: 5}
 end
 
 def my_hash_creator(key,value)
-  key = value[:key]
+h.each {|key, value| puts "#{key} is #{value}" }
 end
 
 def read_from_hash(hash, key)
