@@ -16,8 +16,6 @@ hash = { id: 5}
 end
 
 def my_hash_creator(key,value)
-  hash[key = value]
-  
   
   
   
