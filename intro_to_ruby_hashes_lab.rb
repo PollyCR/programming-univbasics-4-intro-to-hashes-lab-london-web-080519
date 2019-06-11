@@ -15,7 +15,7 @@ def id_generator
 hash = { id: 5}
 end
 
-def my_hash_creator.create(key,value)
+def my_hash_creator(key,value)
   @key = value[:key]
 end
 
