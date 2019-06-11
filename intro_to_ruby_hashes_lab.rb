@@ -3,7 +3,8 @@ hashlet = Hash.new
 end
 
 def my_hash
-
+songs = { artist: "Taylor Swift"
+song: "Blank Space" }
 end
 
 def pioneer
