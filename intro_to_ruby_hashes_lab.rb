@@ -16,8 +16,7 @@ hash = { id: 5}
 end
 
 def my_hash_creator(key,value)
- Hash[[key => value] ]
- end
+
 end
 
 def read_from_hash(hash, key)
